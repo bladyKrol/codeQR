@@ -1,0 +1,46 @@
+.codeQR{
+    width: 320px;
+    height: 320px;
+    border-radius:20px;
+    display: block;
+    margin: 20 20 20 20;
+    
+
+}
+h1{
+    width: auto;
+    font-size: 28px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+h2{
+    font-size: 18px;
+    color:grey;
+    margin: auto;
+    width: 320px;
+    text-align: center;
+    margin-bottom: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+body{
+    width: 360px;
+    background-color: lightblue;
+    margin: auto;
+    margin-top: 50px;
+    
+    
+
+}
+section{
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 0 0 40px grey;
+}
